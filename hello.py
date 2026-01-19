@@ -1,3 +1,3 @@
 python
-print("jvodafvokjsvkj")
-print("sidfhiwafdoi")
+print("привет, гитхаб")
+print("Это мой первый ффайл в репозитории")
